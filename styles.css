@@ -1,0 +1,74 @@
+body {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: italic;
+    background-color: #FEECE2;
+    
+}
+
+.card:hover {
+    background-color: #FFF7F1;
+    color: #211C6A;
+    border-radius: 20px;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+
+.top-container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.skills {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.contact {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.projects-container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom-container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    padding-right: 15px;
+}
